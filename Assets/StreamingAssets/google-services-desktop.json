@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1068117541338",
+    "project_id": "sock-afc0a",
+    "storage_bucket": "sock-afc0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068117541338:ios:04cb0300c299a8ca2380e3",
+        "android_client_info": {
+          "package_name": "com.pataconstudios.sock"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppcMNypMNmbaiaEr5CiSL6ieKXrhCYD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
